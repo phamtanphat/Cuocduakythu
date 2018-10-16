@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     skOne.setProgress(skOne.getProgress() + valueprogressTwo);
                     skTwo.setProgress(skTwo.getProgress() + valueprogressTwo);
                     skThree.setProgress(skThree.getProgress() + valueprogressThree);
+
                 }
                 // Chuc nang
 //                    1 : Chi duoc chon 1 trong 3 checkbox :setOnCheckedChangeListener
